@@ -13,6 +13,7 @@ To get the project locally on your computer :
 * MongoDB 
 * Neo4j
 * Java Sprint Framework 
+* Maven
 
 # Description 
 >> This is a Java REST API project using microservices (MongoDB and Neo4J) that communicate with each other to accomplish specific use-cases. 
