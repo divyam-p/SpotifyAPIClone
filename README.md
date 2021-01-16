@@ -12,7 +12,7 @@ To get the project locally on your computer :
 * Java 
 * MongoDB 
 * Neo4j
-* Java Sprint Framework 
+* Java Spring Framework 
 * Maven
 
 # Description 
